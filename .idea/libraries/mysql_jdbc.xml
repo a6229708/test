@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="mysql-jdbc">
+    <CLASSES>
+      <root url="jar://H:/myprojects/hibernate/chapter08/WebRoot/WEB-INF/lib/mysql-jdbc.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
